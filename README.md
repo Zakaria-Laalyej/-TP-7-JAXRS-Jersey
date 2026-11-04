@@ -121,8 +121,13 @@ curl -X POST http://localhost:8082/banque/comptes \
 ## Captures d'Écran
 
 > Déposez vos captures d'écran dans le dossier `captures/` :
-> - `captures/01-console-demarrage.png` : Démarrage de l'application et logs CommandLineRunner.
-> - `captures/02-h2-console.png` : Table COMPTE dans la console H2.
-> - `captures/03-postman-get-json.png` : Requête GET retournant le format JSON.
-> - `captures/04-postman-get-xml.png` : Requête GET retournant le format XML.
-> - `captures/05-postman-post.png` : Création réussie d'un compte.
+<img width="899" height="378" alt="Capture d’écran 2026-11-04 174321" src="https://github.com/user-attachments/assets/88b04ca6-bd8f-428f-88a2-6612d6b6fb6a" />
+
+<img width="895" height="432" alt="Capture d’écran 2026-11-04 174353" src="https://github.com/user-attachments/assets/d10e37a7-e8f3-4009-b61f-25cbf6aa4dcc" />
+
+<img width="1920" height="992" alt="image" src="https://github.com/user-attachments/assets/8d9bd3fd-8d99-4c1b-a492-effec6e905be" />
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/f3d0974c-81f5-448c-965b-d3b7dbddf573" />
+
+<img width="1917" height="1017" alt="image" src="https://github.com/user-attachments/assets/e8a2fabf-9bff-43f4-8d19-13ec5b157764" />
+
